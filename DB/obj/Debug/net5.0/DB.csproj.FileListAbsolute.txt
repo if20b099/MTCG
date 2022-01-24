@@ -1,0 +1,15 @@
+C:\Users\Fiso\source\repos\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Fiso\source\repos\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Fiso\source\repos\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Fiso\source\repos\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Fiso\source\repos\DB\bin\Debug\net5.0\MTCGClassLib.dll
+C:\Users\Fiso\source\repos\DB\bin\Debug\net5.0\MTCGClassLib.pdb
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Fiso\source\repos\DB\obj\Debug\net5.0\DB.csproj.CopyComplete

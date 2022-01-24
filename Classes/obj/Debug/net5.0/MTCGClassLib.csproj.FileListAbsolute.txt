@@ -1,0 +1,12 @@
+C:\Users\Fiso\source\repos\Classes\bin\Debug\net5.0\MTCGClassLib.deps.json
+C:\Users\Fiso\source\repos\Classes\bin\Debug\net5.0\MTCGClassLib.dll
+C:\Users\Fiso\source\repos\Classes\bin\Debug\net5.0\ref\MTCGClassLib.dll
+C:\Users\Fiso\source\repos\Classes\bin\Debug\net5.0\MTCGClassLib.pdb
+C:\Users\Fiso\source\repos\Classes\obj\Debug\net5.0\MTCGClassLib.csproj.AssemblyReference.cache
+C:\Users\Fiso\source\repos\Classes\obj\Debug\net5.0\MTCGClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fiso\source\repos\Classes\obj\Debug\net5.0\MTCGClassLib.AssemblyInfoInputs.cache
+C:\Users\Fiso\source\repos\Classes\obj\Debug\net5.0\MTCGClassLib.AssemblyInfo.cs
+C:\Users\Fiso\source\repos\Classes\obj\Debug\net5.0\MTCGClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Fiso\source\repos\Classes\obj\Debug\net5.0\MTCGClassLib.dll
+C:\Users\Fiso\source\repos\Classes\obj\Debug\net5.0\ref\MTCGClassLib.dll
+C:\Users\Fiso\source\repos\Classes\obj\Debug\net5.0\MTCGClassLib.pdb
